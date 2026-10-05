@@ -1,0 +1,98 @@
+D:\Рабочий стол\3 семестр\ТВП\ЛР1\Laba 1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Рабочий стол\3 семестр\ТВП\ЛР1\Laba 1\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Рабочий стол\3 семестр\ТВП\ЛР1\Laba 1\bin\Debug\netcoreapp3.1\libman.json
+D:\Рабочий стол\3 семестр\ТВП\ЛР1\Laba 1\bin\Debug\netcoreapp3.1\Laba 1.StaticWebAssets.xml
+D:\Рабочий стол\3 семестр\ТВП\ЛР1\Laba 1\bin\Debug\netcoreapp3.1\Laba 1.exe
+D:\Рабочий стол\3 семестр\ТВП\ЛР1\Laba 1\bin\Debug\netcoreapp3.1\Laba 1.deps.json
+D:\Рабочий стол\3 семестр\ТВП\ЛР1\Laba 1\bin\Debug\netcoreapp3.1\Laba 1.runtimeconfig.json
+D:\Рабочий стол\3 семестр\ТВП\ЛР1\Laba 1\bin\Debug\netcoreapp3.1\Laba 1.runtimeconfig.dev.json
+D:\Рабочий стол\3 семестр\ТВП\ЛР1\Laba 1\bin\Debug\netcoreapp3.1\Laba 1.dll
+D:\Рабочий стол\3 семестр\ТВП\ЛР1\Laba 1\bin\Debug\netcoreapp3.1\Laba 1.pdb
+D:\Рабочий стол\3 семестр\ТВП\ЛР1\Laba 1\bin\Debug\netcoreapp3.1\Laba 1.Views.dll
+D:\Рабочий стол\3 семестр\ТВП\ЛР1\Laba 1\bin\Debug\netcoreapp3.1\Laba 1.Views.pdb
+D:\Рабочий стол\3 семестр\ТВП\ЛР1\Laba 1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Рабочий стол\3 семестр\ТВП\ЛР1\Laba 1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Рабочий стол\3 семестр\ТВП\ЛР1\Laba 1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\Рабочий стол\3 семестр\ТВП\ЛР1\Laba 1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Рабочий стол\3 семестр\ТВП\ЛР1\Laba 1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+D:\Рабочий стол\3 семестр\ТВП\ЛР1\Laba 1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\Рабочий стол\3 семестр\ТВП\ЛР1\Laba 1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+D:\Рабочий стол\3 семестр\ТВП\ЛР1\Laba 1\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Рабочий стол\3 семестр\ТВП\ЛР1\Laba 1\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Рабочий стол\3 семестр\ТВП\ЛР1\Laba 1\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Рабочий стол\3 семестр\ТВП\ЛР1\Laba 1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Рабочий стол\3 семестр\ТВП\ЛР1\Laba 1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Рабочий стол\3 семестр\ТВП\ЛР1\Laba 1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Рабочий стол\3 семестр\ТВП\ЛР1\Laba 1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Рабочий стол\3 семестр\ТВП\ЛР1\Laba 1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Рабочий стол\3 семестр\ТВП\ЛР1\Laba 1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Рабочий стол\3 семестр\ТВП\ЛР1\Laba 1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Рабочий стол\3 семестр\ТВП\ЛР1\Laba 1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Рабочий стол\3 семестр\ТВП\ЛР1\Laba 1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Рабочий стол\3 семестр\ТВП\ЛР1\Laba 1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Рабочий стол\3 семестр\ТВП\ЛР1\Laba 1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Рабочий стол\3 семестр\ТВП\ЛР1\Laba 1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Рабочий стол\3 семестр\ТВП\ЛР1\Laba 1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Рабочий стол\3 семестр\ТВП\ЛР1\Laba 1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\Рабочий стол\3 семестр\ТВП\ЛР1\Laba 1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\Рабочий стол\3 семестр\ТВП\ЛР1\Laba 1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\Рабочий стол\3 семестр\ТВП\ЛР1\Laba 1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Рабочий стол\3 семестр\ТВП\ЛР1\Laba 1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Рабочий стол\3 семестр\ТВП\ЛР1\Laba 1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Рабочий стол\3 семестр\ТВП\ЛР1\Laba 1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Рабочий стол\3 семестр\ТВП\ЛР1\Laba 1\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Рабочий стол\3 семестр\ТВП\ЛР1\Laba 1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Рабочий стол\3 семестр\ТВП\ЛР1\Laba 1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Рабочий стол\3 семестр\ТВП\ЛР1\Laba 1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Рабочий стол\3 семестр\ТВП\ЛР1\Laba 1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Рабочий стол\3 семестр\ТВП\ЛР1\Laba 1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Рабочий стол\3 семестр\ТВП\ЛР1\Laba 1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Рабочий стол\3 семестр\ТВП\ЛР1\Laba 1\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Рабочий стол\3 семестр\ТВП\ЛР1\Laba 1\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Рабочий стол\3 семестр\ТВП\ЛР1\Laba 1\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Рабочий стол\3 семестр\ТВП\ЛР1\Laba 1\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Рабочий стол\3 семестр\ТВП\ЛР1\Laba 1\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Рабочий стол\3 семестр\ТВП\ЛР1\Laba 1\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Рабочий стол\3 семестр\ТВП\ЛР1\Laba 1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Рабочий стол\3 семестр\ТВП\ЛР1\Laba 1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Рабочий стол\3 семестр\ТВП\ЛР1\Laba 1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Рабочий стол\3 семестр\ТВП\ЛР1\Laba 1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Рабочий стол\3 семестр\ТВП\ЛР1\Laba 1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Рабочий стол\3 семестр\ТВП\ЛР1\Laba 1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Рабочий стол\3 семестр\ТВП\ЛР1\Laba 1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Рабочий стол\3 семестр\ТВП\ЛР1\Laba 1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Рабочий стол\3 семестр\ТВП\ЛР1\Laba 1\obj\Debug\netcoreapp3.1\Laba 1.csproj.AssemblyReference.cache
+D:\Рабочий стол\3 семестр\ТВП\ЛР1\Laba 1\obj\Debug\netcoreapp3.1\Laba 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Рабочий стол\3 семестр\ТВП\ЛР1\Laba 1\obj\Debug\netcoreapp3.1\Laba 1.AssemblyInfoInputs.cache
+D:\Рабочий стол\3 семестр\ТВП\ЛР1\Laba 1\obj\Debug\netcoreapp3.1\Laba 1.AssemblyInfo.cs
+D:\Рабочий стол\3 семестр\ТВП\ЛР1\Laba 1\obj\Debug\netcoreapp3.1\Laba 1.csproj.CoreCompileInputs.cache
+D:\Рабочий стол\3 семестр\ТВП\ЛР1\Laba 1\obj\Debug\netcoreapp3.1\Laba 1.MvcApplicationPartsAssemblyInfo.cs
+D:\Рабочий стол\3 семестр\ТВП\ЛР1\Laba 1\obj\Debug\netcoreapp3.1\Laba 1.MvcApplicationPartsAssemblyInfo.cache
+D:\Рабочий стол\3 семестр\ТВП\ЛР1\Laba 1\obj\Debug\netcoreapp3.1\Laba 1.RazorAssemblyInfo.cache
+D:\Рабочий стол\3 семестр\ТВП\ЛР1\Laba 1\obj\Debug\netcoreapp3.1\Laba 1.RazorAssemblyInfo.cs
+D:\Рабочий стол\3 семестр\ТВП\ЛР1\Laba 1\obj\Debug\netcoreapp3.1\Laba 1.TagHelpers.input.cache
+D:\Рабочий стол\3 семестр\ТВП\ЛР1\Laba 1\obj\Debug\netcoreapp3.1\Laba 1.TagHelpers.output.cache
+D:\Рабочий стол\3 семестр\ТВП\ЛР1\Laba 1\obj\Debug\netcoreapp3.1\Laba 1.RazorCoreGenerate.cache
+D:\Рабочий стол\3 семестр\ТВП\ЛР1\Laba 1\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+D:\Рабочий стол\3 семестр\ТВП\ЛР1\Laba 1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Рабочий стол\3 семестр\ТВП\ЛР1\Laba 1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Рабочий стол\3 семестр\ТВП\ЛР1\Laba 1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Рабочий стол\3 семестр\ТВП\ЛР1\Laba 1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Рабочий стол\3 семестр\ТВП\ЛР1\Laba 1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+D:\Рабочий стол\3 семестр\ТВП\ЛР1\Laba 1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Рабочий стол\3 семестр\ТВП\ЛР1\Laba 1\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Рабочий стол\3 семестр\ТВП\ЛР1\Laba 1\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Рабочий стол\3 семестр\ТВП\ЛР1\Laba 1\obj\Debug\netcoreapp3.1\Laba 1.RazorTargetAssemblyInfo.cache
+D:\Рабочий стол\3 семестр\ТВП\ЛР1\Laba 1\obj\Debug\netcoreapp3.1\Laba 1.RazorTargetAssemblyInfo.cs
+D:\Рабочий стол\3 семестр\ТВП\ЛР1\Laba 1\obj\Debug\netcoreapp3.1\Laba 1.Views.pdb
+D:\Рабочий стол\3 семестр\ТВП\ЛР1\Laba 1\obj\Debug\netcoreapp3.1\staticwebassets\Laba 1.StaticWebAssets.Manifest.cache
+D:\Рабочий стол\3 семестр\ТВП\ЛР1\Laba 1\obj\Debug\netcoreapp3.1\staticwebassets\Laba 1.StaticWebAssets.Pack.cache
+D:\Рабочий стол\3 семестр\ТВП\ЛР1\Laba 1\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.Laba 1.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Рабочий стол\3 семестр\ТВП\ЛР1\Laba 1\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.Laba 1.props
+D:\Рабочий стол\3 семестр\ТВП\ЛР1\Laba 1\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.Laba 1.props
+D:\Рабочий стол\3 семестр\ТВП\ЛР1\Laba 1\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.Laba 1.props
+D:\Рабочий стол\3 семестр\ТВП\ЛР1\Laba 1\obj\Debug\netcoreapp3.1\staticwebassets\Laba 1.StaticWebAssets.xml
+D:\Рабочий стол\3 семестр\ТВП\ЛР1\Laba 1\obj\Debug\netcoreapp3.1\Laba 1.csproj.Up2Date
+D:\Рабочий стол\3 семестр\ТВП\ЛР1\Laba 1\obj\Debug\netcoreapp3.1\Laba 1.dll
+D:\Рабочий стол\3 семестр\ТВП\ЛР1\Laba 1\obj\Debug\netcoreapp3.1\Laba 1.pdb
+D:\Рабочий стол\3 семестр\ТВП\ЛР1\Laba 1\obj\Debug\netcoreapp3.1\Laba 1.genruntimeconfig.cache
